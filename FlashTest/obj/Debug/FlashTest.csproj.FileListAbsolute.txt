@@ -1,0 +1,97 @@
+C:\Course\502\CS\Exercises\Flash\FlashTest\bin\Debug\FlashTest.exe.config
+C:\Course\502\CS\Exercises\Flash\FlashTest\bin\Debug\FlashTest.exe
+C:\Course\502\CS\Exercises\Flash\FlashTest\bin\Debug\FlashTest.pdb
+C:\Course\502\CS\Exercises\Flash\FlashTest\obj\Debug\FlashTest.csprojAssemblyReference.cache
+C:\Course\502\CS\Exercises\Flash\FlashTest\obj\Debug\FlashTest.csproj.CoreCompileInputs.cache
+C:\Course\502\CS\Exercises\Flash\FlashTest\obj\Debug\FlashTest.exe
+C:\Course\502\CS\Exercises\Flash\FlashTest\obj\Debug\FlashTest.pdb
+C:\Course\502\CS\Exercises\Ex1.1\FlashTest\bin\Debug\FlashTest.exe.config
+C:\Course\502\CS\Exercises\Ex1.1\FlashTest\bin\Debug\FlashTest.exe
+C:\Course\502\CS\Exercises\Ex1.1\FlashTest\bin\Debug\FlashTest.pdb
+C:\Course\502\CS\Exercises\Ex1.1\FlashTest\obj\Debug\FlashTest.csprojAssemblyReference.cache
+C:\Course\502\CS\Exercises\Ex1.1\FlashTest\obj\Debug\FlashTest.csproj.CoreCompileInputs.cache
+C:\Course\502\CS\Exercises\Ex1.1\FlashTest\obj\Debug\FlashTest.exe
+C:\Course\502\CS\Exercises\Ex1.1\FlashTest\obj\Debug\FlashTest.pdb
+C:\Course\502\CS\Exercises-Completed\Ex1.1 done\FlashTest\bin\Debug\FlashTest.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex1.1 done\FlashTest\bin\Debug\FlashTest.exe
+C:\Course\502\CS\Exercises-Completed\Ex1.1 done\FlashTest\bin\Debug\FlashTest.pdb
+C:\Course\502\CS\Exercises-Completed\Ex1.1 done\FlashTest\obj\Debug\FlashTest.csprojAssemblyReference.cache
+C:\Course\502\CS\Exercises-Completed\Ex1.1 done\FlashTest\obj\Debug\FlashTest.csproj.CoreCompileInputs.cache
+C:\Course\502\CS\Exercises-Completed\Ex1.1 done\FlashTest\obj\Debug\FlashTest.exe
+C:\Course\502\CS\Exercises-Completed\Ex1.1 done\FlashTest\obj\Debug\FlashTest.pdb
+C:\Course\502\CS\Exercises-Completed\Ex2.1 done\FlashTest\bin\Debug\FlashTest.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex2.1 done\FlashTest\bin\Debug\FlashTest.exe
+C:\Course\502\CS\Exercises-Completed\Ex2.1 done\FlashTest\bin\Debug\FlashTest.pdb
+C:\Course\502\CS\Exercises-Completed\Ex2.1 done\FlashTest\obj\Debug\FlashTest.csprojAssemblyReference.cache
+C:\Course\502\CS\Exercises-Completed\Ex2.1 done\FlashTest\obj\Debug\FlashTest.csproj.CoreCompileInputs.cache
+C:\Course\502\CS\Exercises-Completed\Ex2.1 done\FlashTest\obj\Debug\FlashTest.exe
+C:\Course\502\CS\Exercises-Completed\Ex2.1 done\FlashTest\obj\Debug\FlashTest.pdb
+C:\Course\502\CS\Exercises-Completed\Ex2.1 done bonus\FlashTest\bin\Debug\FlashTest.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex2.1 done bonus\FlashTest\bin\Debug\FlashTest.exe
+C:\Course\502\CS\Exercises-Completed\Ex2.1 done bonus\FlashTest\bin\Debug\FlashTest.pdb
+C:\Course\502\CS\Exercises-Completed\Ex2.1 done bonus\FlashTest\obj\Debug\FlashTest.csprojAssemblyReference.cache
+C:\Course\502\CS\Exercises-Completed\Ex2.1 done bonus\FlashTest\obj\Debug\FlashTest.csproj.CoreCompileInputs.cache
+C:\Course\502\CS\Exercises-Completed\Ex2.1 done bonus\FlashTest\obj\Debug\FlashTest.exe
+C:\Course\502\CS\Exercises-Completed\Ex2.1 done bonus\FlashTest\obj\Debug\FlashTest.pdb
+C:\Course\502\CS\Exercises-Completed\Ex2.2 done\FlashTest\bin\Debug\FlashTest.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex2.2 done\FlashTest\bin\Debug\FlashTest.exe
+C:\Course\502\CS\Exercises-Completed\Ex2.2 done\FlashTest\bin\Debug\FlashTest.pdb
+C:\Course\502\CS\Exercises-Completed\Ex2.2 done\FlashTest\obj\Debug\FlashTest.csprojAssemblyReference.cache
+C:\Course\502\CS\Exercises-Completed\Ex2.2 done\FlashTest\obj\Debug\FlashTest.csproj.CoreCompileInputs.cache
+C:\Course\502\CS\Exercises-Completed\Ex2.2 done\FlashTest\obj\Debug\FlashTest.exe
+C:\Course\502\CS\Exercises-Completed\Ex2.2 done\FlashTest\obj\Debug\FlashTest.pdb
+C:\Course\502\CS\Exercises-Completed\Ex2.2 done bonus\FlashTest\bin\Debug\FlashTest.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex2.2 done bonus\FlashTest\bin\Debug\FlashTest.exe
+C:\Course\502\CS\Exercises-Completed\Ex2.2 done bonus\FlashTest\bin\Debug\FlashTest.pdb
+C:\Course\502\CS\Exercises-Completed\Ex2.2 done bonus\FlashTest\obj\Debug\FlashTest.csprojAssemblyReference.cache
+C:\Course\502\CS\Exercises-Completed\Ex2.2 done bonus\FlashTest\obj\Debug\FlashTest.csproj.CoreCompileInputs.cache
+C:\Course\502\CS\Exercises-Completed\Ex2.2 done bonus\FlashTest\obj\Debug\FlashTest.exe
+C:\Course\502\CS\Exercises-Completed\Ex2.2 done bonus\FlashTest\obj\Debug\FlashTest.pdb
+C:\Course\502\CS\Exercises-Completed\Ex3.1 done\FlashTest\bin\Debug\FlashTest.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex3.1 done\FlashTest\bin\Debug\FlashTest.exe
+C:\Course\502\CS\Exercises-Completed\Ex3.1 done\FlashTest\bin\Debug\FlashTest.pdb
+C:\Course\502\CS\Exercises-Completed\Ex3.1 done\FlashTest\obj\Debug\FlashTest.csprojAssemblyReference.cache
+C:\Course\502\CS\Exercises-Completed\Ex3.1 done\FlashTest\obj\Debug\FlashTest.csproj.CoreCompileInputs.cache
+C:\Course\502\CS\Exercises-Completed\Ex3.1 done\FlashTest\obj\Debug\FlashTest.exe
+C:\Course\502\CS\Exercises-Completed\Ex3.1 done\FlashTest\obj\Debug\FlashTest.pdb
+C:\Course\502\CS\Exercises-Completed\Ex3.1 done bonus\FlashTest\bin\Debug\FlashTest.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex3.1 done bonus\FlashTest\bin\Debug\FlashTest.exe
+C:\Course\502\CS\Exercises-Completed\Ex3.1 done bonus\FlashTest\bin\Debug\FlashTest.pdb
+C:\Course\502\CS\Exercises-Completed\Ex3.1 done bonus\FlashTest\obj\Debug\FlashTest.csprojAssemblyReference.cache
+C:\Course\502\CS\Exercises-Completed\Ex3.1 done bonus\FlashTest\obj\Debug\FlashTest.csproj.CoreCompileInputs.cache
+C:\Course\502\CS\Exercises-Completed\Ex3.1 done bonus\FlashTest\obj\Debug\FlashTest.exe
+C:\Course\502\CS\Exercises-Completed\Ex3.1 done bonus\FlashTest\obj\Debug\FlashTest.pdb
+C:\Course\502\CS\Exercises-Completed\Ex3.2 done\FlashTest\bin\Debug\FlashTest.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex3.2 done\FlashTest\bin\Debug\FlashTest.exe
+C:\Course\502\CS\Exercises-Completed\Ex3.2 done\FlashTest\bin\Debug\FlashTest.pdb
+C:\Course\502\CS\Exercises-Completed\Ex3.2 done\FlashTest\obj\Debug\FlashTest.csprojAssemblyReference.cache
+C:\Course\502\CS\Exercises-Completed\Ex3.2 done\FlashTest\obj\Debug\FlashTest.csproj.CoreCompileInputs.cache
+C:\Course\502\CS\Exercises-Completed\Ex3.2 done\FlashTest\obj\Debug\FlashTest.exe
+C:\Course\502\CS\Exercises-Completed\Ex3.2 done\FlashTest\obj\Debug\FlashTest.pdb
+C:\Course\502\CS\Exercises-Completed\Ex3.2 done bonus\FlashTest\bin\Debug\FlashTest.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex3.2 done bonus\FlashTest\bin\Debug\FlashTest.exe
+C:\Course\502\CS\Exercises-Completed\Ex3.2 done bonus\FlashTest\bin\Debug\FlashTest.pdb
+C:\Course\502\CS\Exercises-Completed\Ex3.2 done bonus\FlashTest\obj\Debug\FlashTest.csprojAssemblyReference.cache
+C:\Course\502\CS\Exercises-Completed\Ex3.2 done bonus\FlashTest\obj\Debug\FlashTest.csproj.CoreCompileInputs.cache
+C:\Course\502\CS\Exercises-Completed\Ex3.2 done bonus\FlashTest\obj\Debug\FlashTest.exe
+C:\Course\502\CS\Exercises-Completed\Ex3.2 done bonus\FlashTest\obj\Debug\FlashTest.pdb
+C:\Course\502\CS\Exercises-Completed\Ex4.1 done\FlashTest\bin\Debug\FlashTest.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex4.1 done\FlashTest\bin\Debug\FlashTest.exe
+C:\Course\502\CS\Exercises-Completed\Ex4.1 done\FlashTest\bin\Debug\FlashTest.pdb
+C:\Course\502\CS\Exercises-Completed\Ex4.1 done\FlashTest\obj\Debug\FlashTest.csprojAssemblyReference.cache
+C:\Course\502\CS\Exercises-Completed\Ex4.1 done\FlashTest\obj\Debug\FlashTest.csproj.CoreCompileInputs.cache
+C:\Course\502\CS\Exercises-Completed\Ex4.1 done\FlashTest\obj\Debug\FlashTest.exe
+C:\Course\502\CS\Exercises-Completed\Ex4.1 done\FlashTest\obj\Debug\FlashTest.pdb
+C:\Course\502\CS\Exercises-Completed\Ex4.1 done\FlashTest\bin\Debug\FlashLib.dll
+C:\Course\502\CS\Exercises-Completed\Ex4.1 done\FlashTest\bin\Debug\FlashLib.pdb
+C:\Course\502\CS\Exercises-Completed\Ex4.1 done\FlashTest\obj\Debug\FlashTest.csproj.CopyComplete
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashTest\bin\Debug\FlashTest.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashTest\bin\Debug\FlashTest.exe
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashTest\bin\Debug\FlashTest.pdb
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashTest\bin\Debug\FlashLib.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashTest\bin\Debug\FlashLib.pdb
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashTest\obj\Debug\FlashTest.csprojAssemblyReference.cache
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashTest\obj\Debug\FlashTest.csproj.CoreCompileInputs.cache
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashTest\obj\Debug\FlashTest.csproj.CopyComplete
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashTest\obj\Debug\FlashTest.exe
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashTest\obj\Debug\FlashTest.pdb

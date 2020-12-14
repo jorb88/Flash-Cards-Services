@@ -1,0 +1,904 @@
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\FlashWeb.dll.config
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\FlashWeb.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\FlashWeb.pdb
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\csc.exe
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\csc.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\csc.rsp
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\csi.exe
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\csi.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\csi.rsp
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\System.AppContext.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\System.Console.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\System.IO.Compression.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\System.Security.Claims.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\System.ValueTuple.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\vbc.exe
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\vbc.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\vbc.rsp
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\VBCSCompiler.exe
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\Antlr3.Runtime.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\Newtonsoft.Json.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\System.Web.Optimization.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\WebGrease.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\System.Web.Optimization.xml
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\Newtonsoft.Json.xml
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\Antlr3.Runtime.pdb
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\obj\Debug\FlashWeb.csprojAssemblyReference.cache
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\obj\Debug\FlashWeb.csproj.CoreCompileInputs.cache
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\obj\Debug\FlashWeb.csproj.CopyComplete
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\obj\Debug\FlashWeb.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done\FlashWeb\obj\Debug\FlashWeb.pdb
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\FlashWeb.dll.config
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\FlashWeb.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\FlashWeb.pdb
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\csc.exe
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\csc.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\csc.rsp
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\csi.exe
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\csi.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\csi.rsp
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\System.AppContext.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\System.Console.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\System.IO.Compression.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\System.Security.Claims.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\System.ValueTuple.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\vbc.exe
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\vbc.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\vbc.rsp
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\VBCSCompiler.exe
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\Antlr3.Runtime.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\Newtonsoft.Json.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\System.Web.Optimization.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\WebGrease.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\System.Web.Optimization.xml
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\Newtonsoft.Json.xml
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\Antlr3.Runtime.pdb
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\obj\Debug\FlashWeb.csprojAssemblyReference.cache
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\obj\Debug\FlashWeb.csproj.CoreCompileInputs.cache
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\obj\Debug\FlashWeb.csproj.CopyComplete
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\obj\Debug\FlashWeb.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.1 done bonus\FlashWeb\obj\Debug\FlashWeb.pdb
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\FlashWeb.dll.config
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\FlashWeb.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\FlashWeb.pdb
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\csc.exe
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\csc.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\csc.rsp
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\csi.exe
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\csi.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\csi.rsp
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\System.AppContext.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\System.Console.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\System.IO.Compression.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\System.Security.Claims.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\System.ValueTuple.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\vbc.exe
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\vbc.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\vbc.rsp
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\VBCSCompiler.exe
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\Antlr3.Runtime.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\FlashLib.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\Newtonsoft.Json.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\System.Web.Optimization.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\WebGrease.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\FlashLib.pdb
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\System.Web.Optimization.xml
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\Newtonsoft.Json.xml
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\Antlr3.Runtime.pdb
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\obj\Debug\FlashWeb.csprojAssemblyReference.cache
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\obj\Debug\FlashWeb.csproj.CoreCompileInputs.cache
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\obj\Debug\FlashWeb.csproj.CopyComplete
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\obj\Debug\FlashWeb.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done\FlashWeb\obj\Debug\FlashWeb.pdb
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\FlashWeb.dll.config
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\FlashWeb.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\FlashWeb.pdb
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\csc.exe
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\csc.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\csc.rsp
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\csi.exe
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\csi.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\csi.rsp
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\System.AppContext.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\System.Console.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\System.IO.Compression.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\System.Security.Claims.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\System.ValueTuple.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\vbc.exe
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\vbc.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\vbc.rsp
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\VBCSCompiler.exe
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\Antlr3.Runtime.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\FlashLib.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\Newtonsoft.Json.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\System.Web.Optimization.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\WebGrease.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\FlashLib.pdb
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\System.Web.Optimization.xml
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\Newtonsoft.Json.xml
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\Antlr3.Runtime.pdb
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\obj\Debug\FlashWeb.csprojAssemblyReference.cache
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\obj\Debug\FlashWeb.csproj.CoreCompileInputs.cache
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\obj\Debug\FlashWeb.csproj.CopyComplete
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\obj\Debug\FlashWeb.dll
+C:\Course\502\CS\Exercises-Completed\Ex5.2 done bonus\FlashWeb\obj\Debug\FlashWeb.pdb
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\FlashWeb.dll.config
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\FlashWeb.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\FlashWeb.pdb
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\csc.exe
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\csc.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\csc.rsp
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\csi.exe
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\csi.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\csi.rsp
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\System.AppContext.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\System.Console.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\System.IO.Compression.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\System.Security.Claims.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\System.ValueTuple.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\vbc.exe
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\vbc.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\vbc.rsp
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\VBCSCompiler.exe
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\Antlr3.Runtime.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\EntityFramework.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\EntityFramework.SqlServer.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\FlashLib.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\Newtonsoft.Json.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\System.Web.Optimization.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\WebGrease.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\FlashLib.pdb
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\EntityFramework.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\EntityFramework.SqlServer.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\System.Web.Optimization.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\Newtonsoft.Json.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\Antlr3.Runtime.pdb
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\obj\Debug\FlashWeb.csprojAssemblyReference.cache
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\obj\Debug\FlashWeb.csproj.CoreCompileInputs.cache
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\obj\Debug\FlashWeb.csproj.CopyComplete
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\obj\Debug\FlashWeb.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashWeb\obj\Debug\FlashWeb.pdb
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\FlashWeb.dll.config
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\FlashWeb.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\FlashWeb.pdb
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\csc.exe
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\csc.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\csc.rsp
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\csi.exe
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\csi.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\csi.rsp
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\System.AppContext.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\System.Console.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\System.IO.Compression.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\System.Security.Claims.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\System.ValueTuple.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\vbc.exe
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\vbc.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\vbc.rsp
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\VBCSCompiler.exe
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\Antlr3.Runtime.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\EntityFramework.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\EntityFramework.SqlServer.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\FlashLib.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\Newtonsoft.Json.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\System.Web.Optimization.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\WebGrease.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\FlashLib.pdb
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\EntityFramework.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\EntityFramework.SqlServer.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\System.Web.Optimization.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\Newtonsoft.Json.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\Antlr3.Runtime.pdb
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\obj\Debug\FlashWeb.csprojAssemblyReference.cache
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\obj\Debug\FlashWeb.csproj.CoreCompileInputs.cache
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\obj\Debug\FlashWeb.csproj.CopyComplete
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\obj\Debug\FlashWeb.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.1 done bonus\FlashWeb\obj\Debug\FlashWeb.pdb
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\FlashWeb.dll.config
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\FlashWeb.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\FlashWeb.pdb
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\csc.exe
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\csc.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\csc.rsp
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\csi.exe
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\csi.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\csi.rsp
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\System.AppContext.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\System.Console.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\System.IO.Compression.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\System.Security.Claims.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\System.ValueTuple.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\vbc.exe
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\vbc.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\vbc.rsp
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\VBCSCompiler.exe
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\Antlr3.Runtime.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\EntityFramework.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\EntityFramework.SqlServer.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\FlashLib.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\Newtonsoft.Json.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\System.Web.Optimization.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\WebGrease.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\FlashLib.pdb
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\EntityFramework.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\EntityFramework.SqlServer.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\System.Web.Optimization.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\Newtonsoft.Json.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\Antlr3.Runtime.pdb
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\obj\Debug\FlashWeb.csprojAssemblyReference.cache
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\obj\Debug\FlashWeb.csproj.CoreCompileInputs.cache
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\obj\Debug\FlashWeb.csproj.CopyComplete
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\obj\Debug\FlashWeb.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done\FlashWeb\obj\Debug\FlashWeb.pdb
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\FlashWeb.dll.config
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\FlashWeb.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\FlashWeb.pdb
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\csc.exe
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\csc.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\csc.rsp
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\csi.exe
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\csi.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\csi.rsp
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\System.AppContext.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\System.Console.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\System.IO.Compression.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\System.Security.Claims.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\System.ValueTuple.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\vbc.exe
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\vbc.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\vbc.rsp
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\VBCSCompiler.exe
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\Antlr3.Runtime.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\EntityFramework.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\EntityFramework.SqlServer.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\FlashLib.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\Newtonsoft.Json.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\System.Web.Optimization.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\WebGrease.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\FlashLib.pdb
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\EntityFramework.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\EntityFramework.SqlServer.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\System.Web.Optimization.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\Newtonsoft.Json.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\Antlr3.Runtime.pdb
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\obj\Debug\FlashWeb.csprojAssemblyReference.cache
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\obj\Debug\FlashWeb.csproj.CoreCompileInputs.cache
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\obj\Debug\FlashWeb.csproj.CopyComplete
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\obj\Debug\FlashWeb.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.2 done bonus\FlashWeb\obj\Debug\FlashWeb.pdb
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\FlashWeb.dll.config
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\FlashWeb.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\FlashWeb.pdb
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\csc.exe
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\csc.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\csc.rsp
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\csi.exe
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\csi.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\csi.rsp
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\System.AppContext.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\System.Console.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\System.IO.Compression.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\System.Security.Claims.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\System.ValueTuple.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\vbc.exe
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\vbc.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\vbc.rsp
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\VBCSCompiler.exe
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\Antlr3.Runtime.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\EntityFramework.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\EntityFramework.SqlServer.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\FlashLib.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\Newtonsoft.Json.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\System.Web.Optimization.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\WebGrease.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\FlashLib.pdb
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\EntityFramework.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\EntityFramework.SqlServer.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\System.Web.Optimization.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\Newtonsoft.Json.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\Antlr3.Runtime.pdb
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\obj\Debug\FlashWeb.csprojAssemblyReference.cache
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\obj\Debug\FlashWeb.csproj.CoreCompileInputs.cache
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\obj\Debug\FlashWeb.csproj.CopyComplete
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\obj\Debug\FlashWeb.dll
+C:\Course\502\CS\Exercises-Completed\Ex6.3 done\FlashWeb\obj\Debug\FlashWeb.pdb
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\FlashWeb.dll.config
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\FlashWeb.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\FlashWeb.pdb
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\csc.exe
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\csc.exe.config
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\csc.rsp
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\csi.exe
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\csi.exe.config
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\csi.rsp
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\System.AppContext.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\System.Console.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\vbc.exe
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\vbc.exe.config
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\vbc.rsp
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\Antlr3.Runtime.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\EntityFramework.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\FlashLib.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\Newtonsoft.Json.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\System.Web.Optimization.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\WebGrease.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\FlashLib.pdb
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\EntityFramework.xml
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\System.Web.Optimization.xml
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\Newtonsoft.Json.xml
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\Antlr3.Runtime.pdb
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\student\Desktop\Flash Cards\FlashWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Desktop\Flash Cards\FlashWeb\obj\Debug\FlashWeb.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Flash Cards\FlashWeb\obj\Debug\FlashWeb.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Flash Cards\FlashWeb\obj\Debug\FlashWeb.csproj.CopyComplete
+C:\Users\student\Desktop\Flash Cards\FlashWeb\obj\Debug\FlashWeb.dll
+C:\Users\student\Desktop\Flash Cards\FlashWeb\obj\Debug\FlashWeb.pdb
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\FlashWeb.dll.config
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\FlashWeb.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\FlashWeb.pdb
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\csc.exe
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\csc.exe.config
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\csc.rsp
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\csi.exe
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\csi.exe.config
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\csi.rsp
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\System.AppContext.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\System.Console.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\vbc.exe
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\vbc.exe.config
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\vbc.rsp
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\Antlr3.Runtime.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\EntityFramework.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\FlashLib.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\Newtonsoft.Json.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\System.Web.Optimization.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\WebGrease.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\FlashLib.pdb
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\EntityFramework.xml
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\System.Web.Optimization.xml
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\Newtonsoft.Json.xml
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\Antlr3.Runtime.pdb
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\obj\Debug\FlashWeb.csprojAssemblyReference.cache
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\obj\Debug\FlashWeb.csproj.CoreCompileInputs.cache
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\obj\Debug\FlashWeb.csproj.CopyComplete
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\obj\Debug\FlashWeb.dll
+C:\Users\student\Dropbox\Flash Card Monolith\FlashWeb\obj\Debug\FlashWeb.pdb
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\FlashWeb.dll.config
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\FlashWeb.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\FlashWeb.pdb
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\csc.exe
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\csc.exe.config
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\csc.rsp
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\csi.exe
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\csi.exe.config
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\csi.rsp
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\System.AppContext.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\System.Console.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\vbc.exe
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\vbc.exe.config
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\vbc.rsp
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\Antlr3.Runtime.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\EntityFramework.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\FlashLib.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\Newtonsoft.Json.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\System.Web.Optimization.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\WebGrease.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\FlashLib.pdb
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\EntityFramework.xml
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\System.Web.Optimization.xml
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\Newtonsoft.Json.xml
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\Antlr3.Runtime.pdb
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\obj\Debug\FlashWeb.csprojAssemblyReference.cache
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\obj\Debug\FlashWeb.csproj.CoreCompileInputs.cache
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\obj\Debug\FlashWeb.csproj.CopyComplete
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\obj\Debug\FlashWeb.dll
+C:\Users\student\Dropbox\Flash Card with Services\FlashWeb\obj\Debug\FlashWeb.pdb
