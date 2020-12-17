@@ -95,3 +95,13 @@ C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashTest\obj\Debug\FlashTest.cs
 C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashTest\obj\Debug\FlashTest.csproj.CopyComplete
 C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashTest\obj\Debug\FlashTest.exe
 C:\Course\502\CS\Exercises-Completed\Ex6.1 done\FlashTest\obj\Debug\FlashTest.pdb
+C:\Users\greg\source\repos\Flash-Cards-Services\FlashTest\bin\Debug\FlashTest.exe.config
+C:\Users\greg\source\repos\Flash-Cards-Services\FlashTest\bin\Debug\FlashTest.exe
+C:\Users\greg\source\repos\Flash-Cards-Services\FlashTest\bin\Debug\FlashTest.pdb
+C:\Users\greg\source\repos\Flash-Cards-Services\FlashTest\bin\Debug\FlashLib.dll
+C:\Users\greg\source\repos\Flash-Cards-Services\FlashTest\bin\Debug\FlashLib.pdb
+C:\Users\greg\source\repos\Flash-Cards-Services\FlashTest\obj\Debug\FlashTest.csprojAssemblyReference.cache
+C:\Users\greg\source\repos\Flash-Cards-Services\FlashTest\obj\Debug\FlashTest.csproj.CoreCompileInputs.cache
+C:\Users\greg\source\repos\Flash-Cards-Services\FlashTest\obj\Debug\FlashTest.csproj.CopyComplete
+C:\Users\greg\source\repos\Flash-Cards-Services\FlashTest\obj\Debug\FlashTest.exe
+C:\Users\greg\source\repos\Flash-Cards-Services\FlashTest\obj\Debug\FlashTest.pdb

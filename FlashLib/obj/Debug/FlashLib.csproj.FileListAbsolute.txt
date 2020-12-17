@@ -22,3 +22,9 @@ C:\Users\student\Dropbox\Flash Card with Services\FlashLib\obj\Debug\FlashLib.cs
 C:\Users\student\Dropbox\Flash Card with Services\FlashLib\obj\Debug\FlashLib.csproj.CoreCompileInputs.cache
 C:\Users\student\Dropbox\Flash Card with Services\FlashLib\obj\Debug\FlashLib.dll
 C:\Users\student\Dropbox\Flash Card with Services\FlashLib\obj\Debug\FlashLib.pdb
+C:\Users\greg\source\repos\Flash-Cards-Services\FlashLib\bin\Debug\FlashLib.dll
+C:\Users\greg\source\repos\Flash-Cards-Services\FlashLib\bin\Debug\FlashLib.pdb
+C:\Users\greg\source\repos\Flash-Cards-Services\FlashLib\obj\Debug\FlashLib.csprojAssemblyReference.cache
+C:\Users\greg\source\repos\Flash-Cards-Services\FlashLib\obj\Debug\FlashLib.csproj.CoreCompileInputs.cache
+C:\Users\greg\source\repos\Flash-Cards-Services\FlashLib\obj\Debug\FlashLib.dll
+C:\Users\greg\source\repos\Flash-Cards-Services\FlashLib\obj\Debug\FlashLib.pdb
