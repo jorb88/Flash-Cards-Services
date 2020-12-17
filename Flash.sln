@@ -9,54 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlashLib", "FlashLib\FlashL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlashWeb", "FlashWeb\FlashWeb.csproj", "{FFB6B4C5-5678-435E-85A5-D72DF8CD97D6}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1850 Functions (Azure)", "1850 Functions (Azure)", "{AB196DDF-B467-4567-9128-EBE8E4ADC863}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\Dropbox\1850 with SRP applied\host.json = ..\..\..\Dropbox\1850 with SRP applied\host.json
-		..\..\..\Dropbox\1850 with SRP applied\local.settings.json = ..\..\..\Dropbox\1850 with SRP applied\local.settings.json
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arithmetic", "Arithmetic", "{4067553C-1E21-4105-BB69-F7EAED49BB18}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\Dropbox\1850 with SRP applied\Arithmetic\function.json = ..\..\..\Dropbox\1850 with SRP applied\Arithmetic\function.json
-		..\..\..\Dropbox\1850 with SRP applied\Arithmetic\index.js = ..\..\..\Dropbox\1850 with SRP applied\Arithmetic\index.js
-		..\..\..\Dropbox\1850 with SRP applied\Arithmetic\sample.dat = ..\..\..\Dropbox\1850 with SRP applied\Arithmetic\sample.dat
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Addition", "Addition", "{CCF34EC7-3F51-48D9-857F-CD317E84F46E}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\Dropbox\1850 with SRP applied\Addition\function.json = ..\..\..\Dropbox\1850 with SRP applied\Addition\function.json
-		..\..\..\Dropbox\1850 with SRP applied\Addition\index.js = ..\..\..\Dropbox\1850 with SRP applied\Addition\index.js
-		..\..\..\Dropbox\1850 with SRP applied\Addition\sample.dat = ..\..\..\Dropbox\1850 with SRP applied\Addition\sample.dat
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Subtraction", "Subtraction", "{C697D18F-5174-41FB-AB26-3299DD72539A}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\Dropbox\1850 with SRP applied\Subtraction\function.json = ..\..\..\Dropbox\1850 with SRP applied\Subtraction\function.json
-		..\..\..\Dropbox\1850 with SRP applied\Subtraction\index.js = ..\..\..\Dropbox\1850 with SRP applied\Subtraction\index.js
-		..\..\..\Dropbox\1850 with SRP applied\Subtraction\sample.dat = ..\..\..\Dropbox\1850 with SRP applied\Subtraction\sample.dat
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Multiplication", "Multiplication", "{0C7FFCB2-8E9E-43F7-98BA-AEF01C766A1F}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\Dropbox\1850 with SRP applied\Multiplication\function.json = ..\..\..\Dropbox\1850 with SRP applied\Multiplication\function.json
-		..\..\..\Dropbox\1850 with SRP applied\Multiplication\index.js = ..\..\..\Dropbox\1850 with SRP applied\Multiplication\index.js
-		..\..\..\Dropbox\1850 with SRP applied\Multiplication\sample.dat = ..\..\..\Dropbox\1850 with SRP applied\Multiplication\sample.dat
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Division", "Division", "{EDB19D6E-C4C9-4934-9153-DF2447930423}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\Dropbox\1850 with SRP applied\Division\function.json = ..\..\..\Dropbox\1850 with SRP applied\Division\function.json
-		..\..\..\Dropbox\1850 with SRP applied\Division\index.js = ..\..\..\Dropbox\1850 with SRP applied\Division\index.js
-		..\..\..\Dropbox\1850 with SRP applied\Division\sample.dat = ..\..\..\Dropbox\1850 with SRP applied\Division\sample.dat
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".vscode", ".vscode", "{C1EF81E6-DDEA-43E4-A160-6959D763827F}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\Dropbox\1850 with SRP applied\.vscode\extensions.json = ..\..\..\Dropbox\1850 with SRP applied\.vscode\extensions.json
-		..\..\..\Dropbox\1850 with SRP applied\.vscode\launch.json = ..\..\..\Dropbox\1850 with SRP applied\.vscode\launch.json
-		..\..\..\Dropbox\1850 with SRP applied\.vscode\settings.json = ..\..\..\Dropbox\1850 with SRP applied\.vscode\settings.json
-		..\..\..\Dropbox\1850 with SRP applied\.vscode\tasks.json = ..\..\..\Dropbox\1850 with SRP applied\.vscode\tasks.json
-	EndProjectSection
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{C57DEBA5-F31C-4FF9-9A43-1A92939B1B9D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -76,17 +29,13 @@ Global
 		{FFB6B4C5-5678-435E-85A5-D72DF8CD97D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFB6B4C5-5678-435E-85A5-D72DF8CD97D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFB6B4C5-5678-435E-85A5-D72DF8CD97D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C57DEBA5-F31C-4FF9-9A43-1A92939B1B9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C57DEBA5-F31C-4FF9-9A43-1A92939B1B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C57DEBA5-F31C-4FF9-9A43-1A92939B1B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C57DEBA5-F31C-4FF9-9A43-1A92939B1B9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{4067553C-1E21-4105-BB69-F7EAED49BB18} = {AB196DDF-B467-4567-9128-EBE8E4ADC863}
-		{CCF34EC7-3F51-48D9-857F-CD317E84F46E} = {AB196DDF-B467-4567-9128-EBE8E4ADC863}
-		{C697D18F-5174-41FB-AB26-3299DD72539A} = {AB196DDF-B467-4567-9128-EBE8E4ADC863}
-		{0C7FFCB2-8E9E-43F7-98BA-AEF01C766A1F} = {AB196DDF-B467-4567-9128-EBE8E4ADC863}
-		{EDB19D6E-C4C9-4934-9153-DF2447930423} = {AB196DDF-B467-4567-9128-EBE8E4ADC863}
-		{C1EF81E6-DDEA-43E4-A160-6959D763827F} = {AB196DDF-B467-4567-9128-EBE8E4ADC863}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {360C93DA-DECC-4B88-A72E-F94AADF3B184}

@@ -1,0 +1,2 @@
+C:\Users\greg\source\repos\Flash-Cards-Services\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\greg\source\repos\Flash-Cards-Services\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
