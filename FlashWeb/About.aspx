@@ -6,10 +6,9 @@
         <h2>About...</h2>
         </div>
     <br /><br />
- This is the Web exercise for Learning Tree course 502 -
-    Introduction to Programming in .Net<br />
+ This is the simple Flash Cards application <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label> used as an example in various Learning Tree courses.<br />
 	<br />
-    You can use any of these test accountsnts<br />
+    You can use any of these test accounts<br />
     <ul>
         <li>bedrock2</li>
         <li>beebop11</li>

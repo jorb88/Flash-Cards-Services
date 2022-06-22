@@ -105,3 +105,14 @@ C:\Users\greg\source\repos\Flash-Cards-Services\FlashTest\obj\Debug\FlashTest.cs
 C:\Users\greg\source\repos\Flash-Cards-Services\FlashTest\obj\Debug\FlashTest.csproj.CopyComplete
 C:\Users\greg\source\repos\Flash-Cards-Services\FlashTest\obj\Debug\FlashTest.exe
 C:\Users\greg\source\repos\Flash-Cards-Services\FlashTest\obj\Debug\FlashTest.pdb
+C:\Users\student\Source\Repos\Flash-Cards-Services\FlashTest\obj\Debug\FlashTest.csproj.AssemblyReference.cache
+C:\Users\student\Source\Repos\Flash-Cards-Services\FlashTest\obj\Debug\FlashTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Source\Repos\Flash-Cards-Services\FlashTest\obj\Debug\FlashTest.csproj.CoreCompileInputs.cache
+C:\Users\student\Source\Repos\Flash-Cards-Services\FlashTest\obj\Debug\FlashTest.exe
+C:\Users\student\Source\Repos\Flash-Cards-Services\FlashTest\obj\Debug\FlashTest.pdb
+C:\Users\student\Source\Repos\Flash-Cards-Services\FlashTest\bin\Debug\FlashTest.exe.config
+C:\Users\student\Source\Repos\Flash-Cards-Services\FlashTest\bin\Debug\FlashTest.exe
+C:\Users\student\Source\Repos\Flash-Cards-Services\FlashTest\bin\Debug\FlashTest.pdb
+C:\Users\student\Source\Repos\Flash-Cards-Services\FlashTest\bin\Debug\FlashLib.dll
+C:\Users\student\Source\Repos\Flash-Cards-Services\FlashTest\bin\Debug\FlashLib.pdb
+C:\Users\student\Source\Repos\Flash-Cards-Services\FlashTest\obj\Debug\FlashTest.csproj.CopyComplete

@@ -2,7 +2,7 @@
 module.exports = function (context, req) {
     context.log('JavaScript HTTP trigger function processed a request.');
 
-    if (req.body.num1 && req.body.num2) {
+    if (req.body.num1 != null && req.body.num2 != null) {
         
         num1 = req.body.num1;
         num2 = req.body.num2;

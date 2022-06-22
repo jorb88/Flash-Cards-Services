@@ -1,2 +1,5 @@
 C:\Users\greg\source\repos\Flash-Cards-Services\Services\obj\Debug\Services.csprojAssemblyReference.cache
 C:\Users\greg\source\repos\Flash-Cards-Services\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\student\Source\Repos\Flash-Cards-Services\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\student\Source\Repos\Flash-Cards-Services\Services\obj\Debug\Services.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Source\Repos\Flash-Cards-Services\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache

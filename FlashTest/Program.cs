@@ -13,7 +13,7 @@ namespace FlashTest
 			Console.WriteLine("Welcome to the FLASH CARD quiz");
 			FlashCard quiz = new FlashCard();
 			Console.Write("Please select an operation (+, -, * or /)? ");
-			quiz.OpSymbol = Console.ReadLine();
+			quiz.Op = Console.ReadLine();
 			Console.WriteLine("To exit the quiz enter a blank answer.");
 			bool playing = true;
 			while (playing)
@@ -24,7 +24,7 @@ namespace FlashTest
 				if (temp.Length == 0) playing = false;
 				else
 				{
-					double answer = double.Parse(temp);
+					int answer = int.Parse(temp);
 					if (quiz.CheckAnswer(answer) == true)
 						Console.WriteLine("CORRECT");
 					else

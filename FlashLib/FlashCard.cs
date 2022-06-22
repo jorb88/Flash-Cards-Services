@@ -7,24 +7,32 @@ namespace FlashLib
 {
 	public class FlashCard
 	{
-		public string OpSymbol { get; set; }
-		public string Operation { get; set; }
-		public double Num1 { get; set; }
-		public double Num2 { get; set; }
+		public string Op { get; set; }
+		public string OpName { get; set; }
+		public int Num1 { get; set; }
+		public int Num2 { get; set; }
 		public string BuildEquation()
 		{
 			Random rnd = new Random();
-			Num1 = rnd.Next(2, 100);
-			Num2 = rnd.Next(2, 100);
-			return string.Format("{0} {1} {2} = ", Num1, OpSymbol, Num2);
+			Num1 = rnd.Next(1, 15);
+			Num2 = rnd.Next(1, 15);
+			return string.Format("{0} {1} {2} = ", Num1, Op, Num2);
 		}
-
-		public bool CheckAnswer(double answer)
+		public int CalcAnswer()
 		{
-			return (answer == CallService(Operation));
+			switch (Op)
+			{
+				case "+": return CallService("Addition");
+				case "-": return CallService("Subtraction");
+				case "*": return CallService("Multiplication");
+				default: throw new Exception("Invalid operation requested");
+			}
 		}
-
-		public double CallService(string service)
+		public bool CheckAnswer(int answer)
+		{
+			return (answer == CalcAnswer());
+		}
+		public int CallService(string service)
 		{
 			WebRequest request = WebRequest.Create("http://localhost:7071/api/" + service);
 			UTF8Encoding encoding = new UTF8Encoding(false);
@@ -40,7 +48,7 @@ namespace FlashLib
 			WebResponse response = request.GetResponse();
 			StreamReader input = new StreamReader(response.GetResponseStream());
 			string result = input.ReadToEnd();
-			return double.Parse(result);
+			return int.Parse(result);
 		}
 	}
 }
