@@ -1,14 +1,13 @@
 // Arithmetic_v4.js
-module.exports = function (context, req) {
+module.exports = function (context, req)
+{
     context.log('JavaScript HTTP trigger function processed a request.');
 
-    serviceCall = function (op, n1, n2, cloud_env) {
+    serviceCall = function (op, n1, n2, cloud_env)
+    {
         var http = require('http');
 
-        data = {
-            "num1": n1,
-            "num2": n2
-        }
+        data = { "num1": n1, "num2": n2 }
         
         var post_req  = null,
             post_data = JSON.stringify(data),
@@ -77,7 +76,7 @@ module.exports = function (context, req) {
         return serviceResponse; 
     };
 
-    if (req.body.num1 && req.body.num2 && req.body.operation) {
+    if ((req.body.num1 != null) && (req.body.num2 != null) && req.body.operation) {
         
         num1 = req.body.num1;
         num2 = req.body.num2;
